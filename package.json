@@ -1,0 +1,19 @@
+{
+  "name": "ml-intern-task",
+  "version": "1.0.0",
+  "main": "submit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Audrija",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "multer": "^1.4.5-lts.1",
+    "node": "^18.20.6",
+    "pdf-parse": "^1.1.1"
+  }
+}
