@@ -10,7 +10,9 @@ This project is developed mainly for an assignment task. I used few referrences 
 But for terminal, I used node server.js to run the project. This project had been successfully deployed at, [ADDUST](https://addust.onrender.com)🎉.
 
 <br>
-![image](https://github.com/user-attachments/assets/d240e80c-a86f-4d18-8abe-609c9b892ddf)
+
+![image](https://github.com/user-attachments/assets/664c871a-8f6b-4a57-b9c8-6534d509c425)
+
 
 ![image](https://github.com/user-attachments/assets/c9bdd060-06bf-4f98-b295-c396bd00cf76)
 <br>
