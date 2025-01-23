@@ -1,5 +1,6 @@
 <h1>🐦‍🔥Addust</h1>
-_Extracts text from pdf to autofill form's fields_
+
+⭐ Extracts text from pdf to autofill form's fields
 
 This project is developed mainly for an assignment task. I used few referrences to complete it. I have listed all of them below. Apart from this, installing this project is quite simple. I deployed this project on Render using NPM. Normally the setup looks like:
 >1. git clone `git@github.com:Audi9602/Addust.git`
