@@ -13,6 +13,14 @@ But for terminal, I used node server.js to run the project. This project had bee
 
 ![image](https://github.com/user-attachments/assets/c9bdd060-06bf-4f98-b295-c396bd00cf76)
 <br>
-[Refer Here](https://docs.google.com/document/d/1uqeGEBIaPkyQlOWnh5QAQbmgdx5CWKMsLLZhZ1u_Tcc/edit?usp=sharing).
+References:
+1. https://medium.com/@kirudang/automated-text-data-extraction-and-form-filling-system-8c97250da6aa
+2. https://www.youtube.com/watch?v=bnCOyGaSe84
+3. https://www.youtube.com/watch?v=RULkvM7AdzY
+4. https://stackoverflow.com/questions/51961926/how-to-extract-data-from-pdf-file-in-nodejs
+5. https://stackoverflow.com/questions/30733690/pdf-to-text-extractor-in-nodejs-without-os-dependencies
+6. https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest_API/Using_FormData_Objects
+7. https://cloudmersive.medium.com/how-to-get-pdf-form-fields-and-values-using-node-js-d7536a11771c
+
 
 
